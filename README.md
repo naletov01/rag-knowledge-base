@@ -48,7 +48,7 @@ env OPENAI_API_KEY=your-api-key
 
 Run:
 
-bash python day26miniRAG.py
+bash python main.py
 
 ## Architecture
 
