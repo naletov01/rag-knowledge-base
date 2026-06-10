@@ -54,16 +54,24 @@ bash python day26miniRAG.py
 
 Documents (TXT/PDF)
 ↓
+
 Chunking (150 characters, overlap 30)
 ↓
+
 Embeddings (text-embedding-3-small)
 ↓
+
 ChromaDB (vector storage)
 ↓
+
 Semantic Search (top 6 chunks)
 ↓
+
 Reranking (CrossEncoder)
 ↓
+
 GPT-4o-mini (answer generation)
 ↓
+
 Answer + Sources
+
