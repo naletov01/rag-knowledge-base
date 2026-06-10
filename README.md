@@ -75,3 +75,11 @@ GPT-4o-mini (answer generation)
 
 Answer + Sources
 
+<img width="990" height="217" alt="Снимок экрана 2026-06-10 в 11 46 25" src="https://github.com/user-attachments/assets/b350b764-4a80-46ef-9065-94cf03dcbe04" />
+
+<img width="980" height="174" alt="Снимок экрана 2026-06-10 в 11 47 01" src="https://github.com/user-attachments/assets/2b795c29-3527-4d70-87ab-d517126a3935" />
+
+<img width="1044" height="180" alt="Снимок экрана 2026-06-10 в 11 46 42" src="https://github.com/user-attachments/assets/bea32d22-1336-4ce7-af3e-1a0bcc1ab452" />
+
+
+
